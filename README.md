@@ -50,11 +50,18 @@
   * [partitioning souvenirs](/week6_programming_challenges/2_partitioning_souvenirs)
   * [maximum value of an arithmetic expression](/week6_programming_challenges/3_maximum_value_of_an_arithmetic_expression)
 
-## 🎉🎈 Certification 
 
 ## Certificate
+
 [Algorithmic Toolbox Certification](https://www.coursera.org/account/accomplishments/certificate/QK6M7MUAQBPC)
 
 ##  Disclaimer
 
 The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
+
+# Contributing
+
+All help is welcome and can make a public repo. Below is a general list that can be improved:
+- Adding solutions in other languages
+- Improve documentation
+- Better algorithms 
