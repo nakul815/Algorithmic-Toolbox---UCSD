@@ -52,4 +52,8 @@
 
 ## 🎉🎈 Certification 
 
-**Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
+![coursera algorithmic toolbox certification-page-001] (https://www.coursera.org/account/accomplishments/certificate/QK6M7MUAQBPC)
+
+##  Disclaimer
+
+The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
