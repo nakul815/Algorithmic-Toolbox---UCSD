@@ -53,7 +53,7 @@
 ## 🎉🎈 Certification 
 
 ## Certificate
-[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/QK6M7MUAQBPC)
+[Algorithmic Toolbox Certification](https://www.coursera.org/account/accomplishments/certificate/QK6M7MUAQBPC)
 
 ##  Disclaimer
 
